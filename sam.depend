@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618166855 source:f:\c c++\sam\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1618167068 source:f:\c c++\simpleparkingmanagement\main.c
+	<stdlib.h>
+	<stdio.h>
+
